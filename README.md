@@ -1,14 +1,158 @@
-# 💫 About Me:
-🌍 Trilingual learner who enjoys exploring languages and communication <br>💻 Interested in front-end development and interactive digital experiences <br>✨ Loves combining technology, design, and creativity into meaningful projects<br>📱 Experienced in creating posters, social media designs, and portfolio websites <br>🚀 Curious, detail-oriented, and always eager to learn new digital skills <br>💡 Passionate about turning ideas into visually engaging creations 
+<!-- ========================= -->
+<!--         HEADER            -->
+<!-- ========================= -->
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ennfal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naufalsyah4329@gmail.com) 
+<h1 align="center">Hi 👋, I'm Naufal</h1>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=naufalsyah43&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=naufalsyah43&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=naufalsyah43&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center">
+A passionate student who loves technology, creativity, and lifelong learning.
+</h3>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF4B91&center=true&vCenter=true&width=650&lines=Front-End+Developer;Future+Data+Analyst;UI%2FUX+Enthusiast;Graphic+Designer;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=naufalsyah43&label=Profile%20Views&color=ff4b91&style=for-the-badge" />
+</p>
+
+---
+
+# 💫 About Me
+
+- 🌍 Trilingual learner exploring languages and communication.
+- 💻 Passionate about Front-End Development.
+- 📊 Currently learning Data Analytics.
+- 🎨 Graphic Designer & UI/UX enthusiast.
+- 📱 Love creating posters, social media content, and portfolio websites.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://instagram.com/_ennfal">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="mailto:naufalsyah4329@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<!-- Uncomment later
+<a href="https://linkedin.com/in/username">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+-->
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### 👨‍💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python" />
+</p>
+
+### 🎨 Design
+
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=figma,canva,affinity,inkscape" />
+</p>
+
+### ⚙️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,notion" />
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=naufalsyah43&theme=radical&show_icons=true"/>
+
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=naufalsyah43&layout=compact&theme=radical"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=naufalsyah43&theme=radical"/>
+
+</p>
+
+---
+
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naufalsyah43&theme=tokyo-night"/>
+
+</p>
+
+---
+
+
+# 🌱 Currently Learning
+
+- 🐍 Python
+- 📊 Data Analytics
+- 🗄️ SQL
+- 🎨 UI/UX Design
+- 🌐 Modern Web Development
+-  🇪🇸 Spanish
+
+---
+
+# 🌍 Languages
+
+| Language | Level |
+|-----------|-------|
+| 🇮🇩 Indonesian | Native |
+| 🇬🇧 English | Intermediate |
+| 🇪🇸 Spanish | Learning |
+| 🇫🇷 French | Beginner |
+
+---
+
+# ⚡ Fun Facts
+
+- ☕ Coffee & Milk makes me more productive.
+- 🎧 I enjoy Pop, R&B, and Jazz music.
+- 📸 I love photography and visual design.
+- ✈️ Dreaming of working abroad someday.
+
+---
+
+# 💭 Favorite Quote
+
+> *"Keep growing. The right people won't be intimidated by your progress."*
+> Sigue creciendo. Las personas adecuadas no se sentirán intimidadas por tu progreso.
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naufalsyah43&theme=radical"/>
+
+</p>
+
+---
+
+<!-- Uncomment after setting up GitHub Action -->
+
+<!--
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/naufalsyah43/naufalsyah43/output/github-contribution-grid-snake.svg"/>
+</p>
+-->
+
