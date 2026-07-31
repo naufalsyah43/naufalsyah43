@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Naufal</h1>
 
 <h3 align="center">
-A passionate student who loves technology, creativity, and lifelong learning.
+A passionate student who loves languages, technology, creativity, and lifelong learning.
 </h3>
 
 <p align="center">
