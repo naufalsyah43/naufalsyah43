@@ -2,7 +2,7 @@
 <!--         HEADER            -->
 <!-- ========================= -->
 
-<h1 align="center">Hi 👋, I'm Naufal</h1>
+<h1 align="center">Hi 👋, I'm Naufal Syah Putra</h1>
 
 <h3 align="center">
 A passionate student who loves languages, technology, creativity, and lifelong learning.
@@ -10,10 +10,6 @@ A passionate student who loves languages, technology, creativity, and lifelong l
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF4B91&center=true&vCenter=true&width=650&lines=Front-End+Developer;Future+Data+Analyst;UI%2FUX+Enthusiast;Graphic+Designer;Languages+Learner;Always+Learning+New+Things" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=naufalsyah43&label=Profile%20Views&color=ff4b91&style=for-the-badge" />
 </p>
 
 ---
