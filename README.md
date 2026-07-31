@@ -1,6 +1,5 @@
 # 💫 About Me:
-🌍 Trilingual learner who enjoys exploring languages and communication<br><br>💻 Interested in front-end development and interactive digital experiences<br><br>✨ Loves combining technology, design, and creativity into meaningful projects<br><br>📱 Experienced in creating posters, social media designs, and portfolio websites<br><br>🚀 Curious, detail-oriented, and always eager to learn new digital skills<br><br>💡 Passionate about turning ideas into visually engaging creations<br>
-
+🌍 Trilingual learner who enjoys exploring languages and communication 💻 Interested in front-end development and interactive digital experiences ✨ Loves combining technology, design, and creativity into meaningful projects 📱 Experienced in creating posters, social media designs, and portfolio websites 🚀 Curious, detail-oriented, and always eager to learn new digital skills 💡 Passionate about turning ideas into visually engaging creations 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ennfal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naufalsyah4329@gmail.com) 
