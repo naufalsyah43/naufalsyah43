@@ -9,7 +9,7 @@ A passionate student who loves languages, technology, creativity, and lifelong l
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF4B91&center=true&vCenter=true&width=650&lines=Front-End+Developer;Future+Data+Analyst;UI%2FUX+Enthusiast;Graphic+Designer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF4B91&center=true&vCenter=true&width=650&lines=Front-End+Developer;Future+Data+Analyst;UI%2FUX+Enthusiast;Graphic+Designer;Languages+Learner;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
